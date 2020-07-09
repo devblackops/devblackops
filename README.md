@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Brandon 👋
+
+I'm a Site Reliability Engineer (SRE) at [stackoverflow.com](https://stackoverflow.com/) and a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003334?fullName=Brandon%20%20Olin) in Cloud and Datacenter Management.
+
+- 🔭 I'm currently writing a book called [Building PowerShell Modules](https://leanpub.com/building-powershell-modules) on [Leanpub](https://leanpub.com). Why don't you check it out?
+- 💬 Ask me about all things PowerShell!
+- 📫 How to reach me: Twitter [@devblackops](https://twitter.com/devblackops)
+- 😄 Pronouns: He/Him
 
 <!--
 **devblackops/devblackops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
