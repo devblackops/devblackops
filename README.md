@@ -4,7 +4,7 @@ I'm a Site Reliability Engineer (SRE) at [stackoverflow.com](https://stackoverfl
 
 I :heart: PowerShell. I'm the creator of [PoshBot](https://github.com/poshbotio/PoshBot), the maintainer of [psake](https://github.com/psake/psake), and a number of other [open-source tools](https://github.com/devblackops?tab=repositories).
 
-<**I love to build interesting and helpful open-source tools to make sysadmins, IT pros, and developers' lives easier**.
+>**I love to build interesting and helpful open-source tools to make sysadmins, IT pros, and developers' lives easier.**
 
 <p align='center'>
 <a href="https://dev.to/devblackops"><img height="30" src="https://raw.githubusercontent.com/devblackops/devblackops/master/media/dev.png"></a>&nbsp;&nbsp;
