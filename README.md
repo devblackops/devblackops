@@ -10,13 +10,13 @@ I :heart: PowerShell. I'm the creator of [PoshBot](https://github.com/poshbotio/
 <a href="https://dev.to/devblackops"><img height="30" src="https://raw.githubusercontent.com/devblackops/devblackops/master/media/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/devblackops"><img height="30" src="https://raw.githubusercontent.com/devblackops/devblackops/master/media/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.patreon.com/devblackops?fan_landing=true"><img height="30" src="https://raw.githubusercontent.com/devblackops/devblackops/master/media/patreon.png"></a>
-<img src="https://visitor-badge.glitch.me/badge?page_id=devblackops.visitor-badge">
 </p>
 
 - 🔭 I'm currently writing a book called [Building PowerShell Modules](https://leanpub.com/building-powershell-modules) on [Leanpub](https://leanpub.com). Why don't you check it out?
 - 💬 Ask me about all things PowerShell!
 - 🐦 I tweet [@devblackops](https://twitter.com/devblackops)
 - ✍ I blog at [devblackops.io](https://devblackops.io)
+- 📰 Get updates at [devblackops.substack.com](https://devblackops.substack.com/)
 - 😄 Pronouns: He/Him
 
 <!--
