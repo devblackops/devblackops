@@ -1,8 +1,8 @@
 ### Ohai, I'm Brandon 👋
 
-I'm a Staff Site Reliability Engineer (SRE) at [stackoverflow.com](https://stackoverflow.com/) and a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003334?fullName=Brandon%20%20Olin) in Cloud and Datacenter Management.
+I'm a Staff Site Reliability Engineer (SRE) at [stackoverflow.com](https://stackoverflow.com/) and a former [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003334?fullName=Brandon%20%20Olin) in Cloud and Datacenter Management.
 
-I :heart: PowerShell. I'm the creator of [PoshBot](https://github.com/poshbotio/PoshBot) and [Terminal-Icons](https://github.com/devblackops/Terminal-Icons), the maintainer of [psake](https://github.com/psake/psake), and a number of other [open-source tools](https://github.com/devblackops?tab=repositories).
+I :heart: PowerShell. I'm the creator of [PoshBot](https://github.com/poshbotio/PoshBot) and [Terminal-Icons](https://github.com/devblackops/Terminal-Icons), a maintainer of [psake](https://github.com/psake/psake), and a number of other [open-source tools](https://github.com/devblackops?tab=repositories).
 
 >**I love to build interesting and helpful open-source tools to make sysadmins, IT pros, and developers' lives easier.**
 
@@ -14,9 +14,8 @@ I :heart: PowerShell. I'm the creator of [PoshBot](https://github.com/poshbotio/
 
 - 🔭 I'm currently writing a book called [Building PowerShell Modules](https://leanpub.com/building-powershell-modules) on [Leanpub](https://leanpub.com). Why don't you check it out?
 - 💬 Ask me about all things PowerShell!
-- 🐦 I tweet [@devblackops](https://twitter.com/devblackops)
+- 🐦 I post [@devblackops.io](https://bsky.app/profile/devblackops.io)
 - ✍ I blog at [devblackops.io](https://devblackops.io)
-- 📰 Get updates at [devblackops.substack.com](https://devblackops.substack.com/)
 - 😄 Pronouns: He/Him
 
 <!--
